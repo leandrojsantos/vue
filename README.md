@@ -29,4 +29,3 @@ Deve ter instalado em sua máquina a seguinte ferramentas:
 - navegador como [Chorme](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAjw1ej5BRBhEiwAfHyh1CqpdiJkRowiF7qVChVWvkTImra14_fVqzdcxXeYoznuxbgYMmtS9BoCP4oQAvD_BwE&gclsrc=aw.ds)
 - [Node](https://nodejs.org/en/)
 - [Vue](https://vuejs.org/)
-
